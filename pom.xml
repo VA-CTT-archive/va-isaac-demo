@@ -7,12 +7,12 @@
         <version>1.11-SNAPSHOT</version>
     </parent>
 
-    <artifactId>expression-service</artifactId>
+    <artifactId>va-isaac-demo</artifactId>
     <version>1.6-SNAPSHOT</version>
     <packaging>jar</packaging>
     
     <scm>
-        <url>https://github.com/VA-CTT/va-expression-service.git</url>
+        <url>https://github.com/VA-CTT/va-isaac-demo.git</url>
     </scm>
     
     <properties>
